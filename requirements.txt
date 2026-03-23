@@ -7,3 +7,12 @@ sentence-transformers>=2.2.0
 scikit-learn>=1.1.0
 numpy>=1.23.0
 tiktoken
+mobile-validate
+langcodes
+pycountry
+countryinfo
+pycountry_convert
+faker
+seaborn
+matplotlib
+nltk
