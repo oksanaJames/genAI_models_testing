@@ -15,4 +15,3 @@ pycountry_convert
 faker
 seaborn
 matplotlib
-nltk
