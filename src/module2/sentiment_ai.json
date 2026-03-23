@@ -1,0 +1,440 @@
+[
+{
+    "summary_id": 1,
+    "movie_id": 1,
+    "ai_summary": "The movie is divisive. Opinions are divided. One reviewer found it to be a predictable and boring experience, while another described it as a must-see, with an unforgettable journey from start to finish.",
+    "ai_sentiment": "neutral"
+},
+{
+    "summary_id": 2,
+    "movie_id": 2,
+    "ai_summary": "The movie has mixed reviews. One reviewer described it as average, noting that it wasn't particularly great but still watchable. Another felt it was a terrible experience and regretted watching it, expressing disappointment with the film.",
+    "ai_sentiment": "neutral"
+},
+{
+        "summary_id": 3,
+        "movie_id": 3,
+        "ai_summary": "The movie has mixed reviews. One reviewer found it watchable but not worthy of a repeat viewing. On the other hand, another reviewer absolutely loved it, recommending it as a must-watch experience.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 4,
+        "movie_id": 4,
+        "ai_summary": "The movie received high praise. Reviewers emphasizing that every second was worth watching.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 5,
+        "movie_id": 5,
+        "ai_summary": "The movie received mostly average reviews. One reviewer found it decent but not amazing, while another thought it was fine but not worth watching again. However, one reviewer was disappointed, finding it boring and the acting subpar.",
+        "ai_sentiment": "neutral"
+    },
+	{
+        "summary_id": 6,
+        "movie_id": 6,
+        "ai_summary": "The movie received a good review, with finding it fine.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 7,
+        "movie_id": 7,
+        "ai_summary": "The movie has a very negative reception. Reviewers described it as boring and disappointing, with one expressing regret for watching it.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 8,
+        "movie_id": 8,
+        "ai_summary": "The movie has received a positive reception, with suggestion and highlighting that it is great.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 9,
+        "movie_id": 9,
+        "ai_summary": "The movie received a neutral review, with one reviewer finding it fine but not particularly impressive or worth watching again.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 10,
+        "movie_id": 10,
+        "ai_summary": "The movie received mixed opinions. While some found it watchable, others felt it was boring and a total waste of time.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 11,
+        "movie_id": 11,
+        "ai_summary": "The movie was highly recommended, with describing it as so good that it’s worth recommending to everyone.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 12,
+        "movie_id": 12,
+        "ai_summary": "The movie is highly praised, with viewers calling it incredible and a true masterpiece. Many would gladly watch it again.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 14,
+        "movie_id": 14,
+        "ai_summary": "The movie received mixed reviews. Some found it fine and watchable, but others felt it wasn’t particularly impressive or worth rewatching.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 16,
+        "movie_id": 16,
+        "ai_summary": "The movie received neutral reviews, with many finding it decent but not mind-blowing. It was watchable but not particularly impressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 17,
+        "movie_id": 17,
+        "ai_summary": "The movie received a mix of opinions. Some found it nothing special, while others felt it was a highly recommended experience, worth watching from start to finish.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 18,
+        "movie_id": 18,
+        "ai_summary": "The movie was praised as an unforgettable and wonderful experience, with many highly recommending it.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 19,
+        "movie_id": 19,
+        "ai_summary": "The movie received a neutral review, with the reviewer finding it okay for a one-time watch but not exceptional.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 20,
+        "movie_id": 20,
+        "ai_summary": "The movie was described as wonderful and incredible, with an exceptional storyline that kept viewers engaged from start to finish.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 15,
+        "movie_id": 15,
+        "ai_summary": "The movie received mixed reviews. Some found it okay but not remarkable, while others considered it light and watchable for a one-time experience.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 23,
+        "movie_id": 23,
+        "ai_summary": "The movie has received negative feedback, with one reviewer describing it as a waste of time and disappointing.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 24,
+        "movie_id": 24,
+        "ai_summary": "The movie was praised as incredible, with one reviewer calling it amazing and worth every second.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 26,
+        "movie_id": 26,
+        "ai_summary": "The movie was criticized for its pacing, with one reviewer describing it as regretful and slow.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 27,
+        "movie_id": 27,
+        "ai_summary": "The movie received mixed opinions. One reviewer found it boring and frustrating, while another described it as one of the best films they've seen.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 28,
+        "movie_id": 28,
+        "ai_summary": "The movie was described as average, with one reviewer finding it fine but not particularly impressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 30,
+        "movie_id": 30,
+        "ai_summary": "The movie received neutral reviews. While it was described as fine and watchable, it did not leave a strong impression on viewers.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 25,
+        "movie_id": 25,
+        "ai_summary": "The movie was described as wonderful and incredible, with an exceptional storyline that kept viewers engaged from start to finish.",
+        "ai_sentiment": "positive"
+	},
+    {
+        "summary_id": 31,
+        "movie_id": 31,
+        "ai_summary": "The movie received mixed reviews. Some found it average and fine, while another felt it had a bad storyline and poor acting.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 32,
+        "movie_id": 32,
+        "ai_summary": "The movie received mixed feedback. One reviewer found it disappointing and not worth recommending, while another described it as decent and enjoyable.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 33,
+        "movie_id": 33,
+        "ai_summary": "The movie received high praise, with one reviewer describing it as a great film with a perfect storyline.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 34,
+        "movie_id": 34,
+        "ai_summary": "The movie received very negative feedback, with one reviewer regretting watching it and describing the plot as frustrating.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 36,
+        "movie_id": 36,
+        "ai_summary": "The movie received neutral feedback, with one reviewer finding it fine but not particularly impressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 37,
+        "movie_id": 37,
+        "ai_summary": "The movie was highly praised, with one reviewer calling it amazing and highly recommending it for fans of the genre.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 38,
+        "movie_id": 38,
+        "ai_summary": "The movie received mixed reviews. One reviewer found it wonderful and a must-watch, while another felt it was just alright and unimpressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 39,
+        "movie_id": 39,
+        "ai_summary": "The movie received a neutral review, with the reviewer finding it fine but not worth watching again.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 40,
+        "movie_id": 40,
+        "ai_summary": "The movie was highly recommended, with one reviewer calling it a must-see and urging others to watch it.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 43,
+        "movie_id": 43,
+        "ai_summary": "The movie received a mix of opinions. While one reviewer found it average, another described it as fantastic with a perfect storyline.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 44,
+        "movie_id": 44,
+        "ai_summary": "The movie received mixed reviews. One reviewer regretted watching it, describing the plot as frustrating, while another described it as amazing and highly recommended.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 47,
+        "movie_id": 47,
+        "ai_summary": "The movie was loved by reviewers, with one describing it as having a perfect storyline from start to finish.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 48,
+        "movie_id": 48,
+        "ai_summary": "The movie received very negative feedback, with the reviewer describing it as boring and frustrating.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 49,
+        "movie_id": 49,
+        "ai_summary": "The movie received mostly neutral reviews, with some finding it unimpressive and others feeling disappointed with the plot.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 51,
+        "movie_id": 51,
+        "ai_summary": "The movie received very negative feedback, with multiple reviewers describing it as a disappointment and not worth watching.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 53,
+        "movie_id": 53,
+        "ai_summary": "The movie has a mixed reception. While one reviewer found it to be disappointing and not worth watching, another described it as an amazing film and highly recommended it.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 54,
+        "movie_id": 54,
+        "ai_summary": "The movie received mixed opinions. One reviewer regretted watching it due to a boring plot, while another found it okay and watchable.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 55,
+        "movie_id": 55,
+        "ai_summary": "The movie received both neutral and positive feedback, with one reviewer finding it enjoyable but not special, while another described it as amazing and captivating.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 56,
+        "movie_id": 56,
+        "ai_summary": "The movie received a mix of feedback. Some found it decent but unimpressive, while others felt the storyline and acting were disappointing.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 57,
+        "movie_id": 57,
+        "ai_summary": "The movie was heavily criticized, with one reviewer describing it as a bad experience and regretting watching it.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 58,
+        "movie_id": 58,
+        "ai_summary": "The movie received neutral reviews.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 59,
+        "movie_id": 59,
+        "ai_summary": "The movie received mostly negative feedback. Several reviewers were disappointed with the plot and acting, while others found it just average, watchable but not worth rewatching.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 61,
+        "movie_id": 61,
+        "ai_summary": "The movie received very negative reviews, with one reviewer describing it as boring and disappointing, while another felt the acting was subpar.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 62,
+        "movie_id": 62,
+        "ai_summary": "The movie received mixed reviews. One reviewer found it incredible with a perfect storyline, while another felt it was just fine and unimpressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 64,
+        "movie_id": 64,
+        "ai_summary": "The movie received a neutral review, with the reviewer finding it fine but not exceptional or worth watching again.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 65,
+        "movie_id": 65,
+        "ai_summary": "The movie was found to be fine but unimpressive, with the reviewer feeling it could have been better.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 66,
+        "movie_id": 66,
+        "ai_summary": "The movie received neutral reviews, with some finding it watchable but not particularly impressive, while others felt it was just okay.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 67,
+        "movie_id": 67,
+        "ai_summary": "The movie received mixed reviews. But the majority describes it as a regret.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 70,
+        "movie_id": 70,
+        "ai_summary": "The movie received very negative feedback, with reviewers describing it as poor and disappointing with frustrating acting.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 71,
+        "movie_id": 71,
+        "ai_summary": "The movie received mixed reviews. One reviewer loved it and considered it an unforgettable experience, while another found it fine but unimpressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 73,
+        "movie_id": 73,
+        "ai_summary": "The movie received mixed opinions. One reviewer highly recommended it and enjoyed it, while another found it only fine and not extraordinary.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 74,
+        "movie_id": 74,
+        "ai_summary": "The movie received very negative reviews, with both reviewers describing it as boring and disappointing, with one regretting watching it.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 75,
+        "movie_id": 75,
+        "ai_summary": "The movie received mixed feedback. Some reviewers found it decent, while others highly recommended it as an unforgettable experience, but one reviewer found the plot terrible and regretted watching it.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 76,
+        "movie_id": 76,
+        "ai_summary": "The movie was heavily criticized, with multiple reviewers describing it as bad, disappointing, and unenjoyable.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 77,
+        "movie_id": 77,
+        "ai_summary": "The movie received a neutral review, with the reviewer finding it good enough but not particularly impressive.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 78,
+        "movie_id": 78,
+        "ai_summary": "The movie received a mix of opinions. Some found it unimpressive, while others described it as fantastic and a must-watch.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 79,
+        "movie_id": 79,
+        "ai_summary": "The movie received very negative feedback, with the reviewer describing it as boring and not worth recommending.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 80,
+        "movie_id": 80,
+        "ai_summary": "The movie was heavily criticized, with both reviewers describing it as bad, disappointing, and unenjoyable.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 81,
+        "movie_id": 81,
+        "ai_summary": "The movie was highly praised, with one reviewer calling it a must-see and truly amazing.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 82,
+        "movie_id": 82,
+        "ai_summary": "The movie received mixed feedback. One reviewer felt it could be better but not remarkable, while another was disappointed by the acting and plot.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 83,
+        "movie_id": 83,
+        "ai_summary": "The movie received a mix of reviews. While one reviewer found it boring and disappointing, another described it as fantastic, and a third found it watchable but not exceptional.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 84,
+        "movie_id": 84,
+        "ai_summary": "The movie received high praise, with one reviewer describing it as a truly unforgettable experience from beginning to end.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 85,
+        "movie_id": 85,
+        "ai_summary": "The movie received mixed feedback. One reviewer found it average and unimpressive, while another found it terrible and disappointing.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 86,
+        "movie_id": 86,
+        "ai_summary": "The movie was described as amazing and highly recommended for fans of action, romance, and drama.",
+        "ai_sentiment": "positive"
+    },
+    {
+        "summary_id": 87,
+        "movie_id": 87,
+        "ai_summary": "The movie received negative feedback, with the reviewer describing it as a real disappointment and not worth recommending.",
+        "ai_sentiment": "negative"
+    },
+    {
+        "summary_id": 89,
+        "movie_id": 89,
+        "ai_summary": "The movie was found to be good enough for a one-time watch, but not exceptional.",
+        "ai_sentiment": "neutral"
+    },
+    {
+        "summary_id": 90,
+        "movie_id": 90,
+        "ai_summary": "The movie received high praise, with the reviewer describing it as incredible and urging others not to miss it.",
+        "ai_sentiment": "positive"
+    }
+]
